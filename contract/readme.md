@@ -126,8 +126,12 @@ PIXELCHAIN - Where Every Pixel Tells a Story
 Empowering pixel artists in the decentralized economy 🎨⛓️
 
 contact address -
-0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3
+0x6572fc18a669A0A27f59e87fd908AecA58b2f842
 
-<img width="1762" height="847" alt="image" src="https://github.com/user-attachments/assets/1f0477e7-cdbd-4eb9-8690-d853f2e4f1dd" />
+
+<img width="1792" height="622" alt="image" src="https://github.com/user-attachments/assets/cf1001c6-34f3-4c6b-ba74-449ea84ea9eb" />
+
+
+
 
 
